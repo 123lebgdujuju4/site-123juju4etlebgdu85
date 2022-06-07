@@ -1,0 +1,9 @@
+body{
+	background-color: #202020;
+}
+
+h1.welcome{
+	font-size: 35px;
+	color: #FEDE00;
+	font-weight: bold;
+}	
