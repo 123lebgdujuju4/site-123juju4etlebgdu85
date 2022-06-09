@@ -1,0 +1,22 @@
+body{
+	background-color: #202020;
+}
+
+h1.welcome{
+	display: flex;
+	font-size: 35px;
+	color: #FEDE00;
+	font-weight: bold;
+}
+
+header.header {
+	display: flex;
+}
+
+a.discord {
+	margin-right: 60px;
+}
+
+a.twitch {
+	margin-right: 60px;
+}
